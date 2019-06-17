@@ -13,10 +13,10 @@ This repository is a REST API developed using Django REST Framework for managing
 `$ cd UsersAPI`
 
 ## Create the virtualenv
-#### $ mkvirtualenv user-api
+`$ mkvirtualenv user-api`
 
 ## Install dependencies
-#### $ pip install -r requirements.txt
+`$ pip install -r requirements.txt`
 
 ## Run the app
-#### $ python manage.py runserver
+`$ python manage.py runserver`
