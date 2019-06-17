@@ -10,7 +10,7 @@ This repository is a REST API developed using Django REST Framework for managing
 
 ## Clone The Repository 
 #### git clone https://github.com/adityamitra1/Users-API-django-rest-framework.git
-#### $ cd DataPeace_UsersAPI
+`$ cd UsersAPI`
 
 ## Create the virtualenv
 #### $ mkvirtualenv user-api
